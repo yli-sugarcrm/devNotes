@@ -1,2 +1,2 @@
 # devNotes
-Day to Day notes of my developer journey
+Day to day notes of my developer journey
