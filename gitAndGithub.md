@@ -12,4 +12,9 @@ If you want to link Line #123 on a file, just add '/#L<123>' at the end of the U
 
 ## Show difference on git
 "git diff" - for save but unstaged change
-"Git diff --staged" - for staged change
+"git diff --staged" - for staged change
+
+
+## Git Stash
+"git stash" to remove uncommit change
+"git stack pop" to restore stash change
