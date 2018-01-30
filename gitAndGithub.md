@@ -13,6 +13,7 @@ If you want to link Line #123 on a file, just add '/#L<123>' at the end of the U
 ## Show difference on git
 "git diff" - for save but unstaged change
 "git diff --staged" - for staged change
+"git diff *branch_Name* *remote/branch_name*" - for difference between a local branch and remote branch
 
 
 ## Git Stash
