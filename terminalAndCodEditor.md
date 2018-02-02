@@ -16,7 +16,13 @@ clear terminal screen
 
 ## [Sublime](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html)
 
-#### Insert at end of link
+#### Insert at end of line
 - Use "cmd + L" to select lines (or "cmd + A")
 - Enter multiple line edit with "cmd + shift + L" you should see cursors at end of selected lines
 - You can switch to front and end of line with "cmd + leftArrow" or "cmd + arrowRight"
+
+#### search file and text
+- "cmd + F" to search text on current file
+- "cmd + shift + F" to search text on all file
+- "cmd + p" to search file
+
